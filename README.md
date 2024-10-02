@@ -1,5 +1,5 @@
 # ✨ About Me:
-I am studying in my first year of Computer Science. Suan Sunandha Rajabhat University, Bangkok Campus. 
+I am studying in my first year of Computer Science. Suan Sunandha Rajabhat University, Bangkok. 
 
 Hg Developer is my shop. I'm the CEO of FiveM scripting shop that I've been with for 3 years.
 
