@@ -1,5 +1,6 @@
 # ✨ About Me:
 I am studying in my first year of Computer Science. Suan Sunandha Rajabhat University, Bangkok. 
+Hg Developer is my shop. I'm the CEO of FiveM scripting shop that I've been with for 3 years.
 
 # 💻 Language:
 ![Java](https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=java&logoColor=white)
@@ -11,6 +12,7 @@ I am studying in my first year of Computer Science. Suan Sunandha Rajabhat Unive
 
 # 📊 GitHub Stats:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=homebuu&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=homebuu&layout=compact&theme=radical)
