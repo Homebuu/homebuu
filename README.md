@@ -10,4 +10,8 @@ I am studying in my first year of Computer Science. Suan Sunandha Rajabhat Unive
 ![php](https://img.shields.io/badge/php-6C78AF?style=flat-square&logo=Php&logoColor=white)
 
 # 📊 GitHub Stats:
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=homebuu&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=homebuu&layout=compact&theme=radical)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=homebuu&theme=radical) -->
