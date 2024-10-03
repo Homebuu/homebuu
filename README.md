@@ -12,8 +12,7 @@ Hg Developer is my shop. I'm the CEO of FiveM scripting shop that I've been with
 ![php](https://img.shields.io/badge/php-6C78AF?style=flat-square&logo=Php&logoColor=white)
 
 # 📊 GitHub Stats:
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
+<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=homebuu&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=homebuu&layout=compact&theme=radical)
