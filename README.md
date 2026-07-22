@@ -11,7 +11,7 @@ I am studying in my first year of Computer Science. Suan Sunandha Rajabhat Unive
 
 # 📊 GitHub Stats:
 <!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=homebuu&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=homebuu&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=homebuu&layout=compact&theme=radical)
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=homebuu&theme=radical) -->
